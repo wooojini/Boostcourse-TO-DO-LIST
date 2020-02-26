@@ -1,0 +1,66 @@
+@charset "UTF-8";
+
+span {
+    display: block;
+}
+
+.todo-form__header {
+    padding: 2.5rem 0 0 0;
+    text-align: center;
+}
+
+.todo-form__main {
+    padding: 0 25% 3.75rem 25%;
+}
+
+.input-area {
+    margin-top: 1.875rem;
+}
+
+.input-area span {
+    margin-bottom: 0.625rem;
+}
+
+.input__label{
+	color:rgb(94,94,94);
+}
+
+.input__title,
+.input__name {
+    height: 1.875rem;
+}
+
+.input__title {
+    width: 100%;
+}
+
+.input__name {
+    width: 50%;
+}
+
+.input__sequence:nth-of-type(2),
+.input__sequence:nth-of-type(3) {
+    margin-left: 0.635rem;
+}
+
+.btn-area {
+    margin-top: 3.75rem;
+}
+
+.input-btn-area {
+    float: right;
+}
+
+.btn-submit,
+.btn-reset {
+    width: 6.25rem;
+    height: 2.1875rem;
+    float: left;
+    margin-left: 0.625rem;
+}
+
+.btn-back {
+    width: 6.25rem;
+    height: 2.1875rem;
+    font-weight: 600;
+}

@@ -1,0 +1,74 @@
+@charset "UTF-8";
+
+.todo-main__header {
+    padding: 2.5rem 1.25rem;
+    position: relative;
+}
+
+.todo-main__header__title {
+    color: rgb(52, 84, 97);
+    position: absolute;
+    top: 3.75rem;
+    left: 0.3125‬rem;
+    transform: rotate(-35deg);
+}
+
+.todo-main__main {
+    padding: 0 1.25rem 2.5rem 1.25rem;
+}
+
+.todo-cards-area {
+    float: right;
+}
+
+.todo-cards {
+    float: left;
+    margin-left: 0.625rem;
+    width: 20.625rem;
+}
+
+.todo-cards__caption-area {
+    background-color: rgb(52, 84, 97);
+    height: 4.0625rem;
+    box-sizing: border-box;
+    padding: 0 1.25rem;
+    position: relative;
+}
+
+.todo-cards__caption {
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 1.25rem;
+    transform: translate3d(0, -50%, 0);
+}
+
+.todo-cards__card {
+    background-color: rgb(206, 229, 239);
+    height: 6.25rem;
+    box-sizing: border-box;
+    margin-top: 0.625rem;
+    padding: 1.5625rem 1.25rem;
+    position: relative;
+}
+
+.todo-cards__card__info {
+    font-size: 0.875rem;
+    font-weight: bold;
+    color: rgb(52, 84, 97);
+    margin-top: 0.3125rem;
+}
+
+.btn-add {
+    width: 12.5rem;
+    height: 2.1875rem;
+    float: right;
+}
+
+.btn-move {
+    width: 1.875rem;
+    height: 1.5625rem;
+    position: absolute;
+    bottom: 1.0625rem;
+    right: 0.625rem;
+}

@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: rgb(235, 237, 236);
+
+}
+
+.overflow-auto {
+    overflow: auto;
+}
+
+.container {
+    background-color: white;
+    width: 73.5rem;
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+.btn--skyblue {
+    color: white;
+    background-color: rgb(32, 173, 238);
+    border: 1px solid rgb(32, 173, 238);
+}
+
+.btn--white {
+    color: black;
+    background-color: white;
+    border: 1px solid black;
+}
