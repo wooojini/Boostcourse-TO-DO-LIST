@@ -7,8 +7,10 @@
   <img src='https://img.shields.io/static/v1?label=Javascript&message=.&color=important'/>
   <img src='https://img.shields.io/static/v1?label=Java&message=1.8&color=yellow'/>
   <img src='https://img.shields.io/static/v1?label=Servlet&message=3.1&color=lightgrey'/>
+  <img src='https://img.shields.io/static/v1?label=JSP&message=.&color=blue'/>
   <img src='https://img.shields.io/static/v1?label=Tomcat&message=8.5&color=important'/>
   <img src='https://img.shields.io/static/v1?label=Maven&message=.&color=blue'/>
+  <img src='https://img.shields.io/static/v1?label=JDBC&message=.&color=important'/>
   <img src='https://img.shields.io/static/v1?label=MySQL&message=8.0&color=lightgrey'/>
 </p>
 
